@@ -16,7 +16,7 @@ node index.js
 All set to use the CLI task list!
 
 
-## Usage 😉
+## Usage 
 
 ### 1. Help
 
